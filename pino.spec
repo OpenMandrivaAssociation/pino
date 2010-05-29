@@ -1,5 +1,5 @@
 Name:		pino
-Version:	0.2.6
+Version:	0.2.10
 Release:	%mkrel 1
 Summary:	A fast, easy and free Twitter and Identi.ca client
 
