@@ -1,6 +1,6 @@
 Name:		pino
 Version:	0.2.10
-Release:	%mkrel 2
+Release:	%mkrel 3
 Summary:	A fast, easy and free Twitter and Identi.ca client
 
 Group:		Networking/Other
