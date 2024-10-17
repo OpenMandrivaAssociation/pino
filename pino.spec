@@ -4,7 +4,7 @@ Version:	0.2.11
 Release:	1
 Group:		Networking/Other
 License:	LGPLv3+
-URL:		http://code.google.com/p/pino-twitter/
+URL:		https://code.google.com/p/pino-twitter/
 Source0:	http://pino-twitter.googlecode.com/files/%{name}-%{version}.tar.bz2
 
 BuildRequires:	desktop-file-utils
